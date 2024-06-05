@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Sveli0
-- 🌱 I’m currently learning C#.
+- 👋 Hi, I’m @Svelio!
 
 <!---
 Sveli0/Sveli0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
